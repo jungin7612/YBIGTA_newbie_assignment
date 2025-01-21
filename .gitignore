@@ -1,2 +1,5 @@
 .mypy_cache
 .DS_Store
+*_input
+Advertising.csv
+*.ipynb
