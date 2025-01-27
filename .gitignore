@@ -2,3 +2,5 @@
 .DS_Store
 *_input
 Advertising.csv
+utils.py
+*.pyc
