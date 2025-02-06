@@ -4,3 +4,10 @@
 Advertising.csv
 utils.py
 *.pyc
+*.toml
+*.pth
+data_batch_*
+*.meta
+test_batch
+*.tar.gz
+readme.html
